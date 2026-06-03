@@ -1,6 +1,7 @@
-<a href="https://github.com/MrBeliaev?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBeliaev&theme=radical"/>
-</a>
-<a href="https://github.com/MrBeliaev?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrBeliaev&line_height=40&show_icons=true&theme=radical">
-</a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrBeliaev&theme=tokyo-night"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MrBeliaev&show_icons=true&theme=tokyonight"/>
+</p>
