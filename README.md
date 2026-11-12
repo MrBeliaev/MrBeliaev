@@ -13,9 +13,3 @@ Building scalable backend systems, blockchain infrastructure, analytics platform
 <p align="center"> <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" /> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" /> <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black" /> </p>
 
 ---
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrBeliaev&theme=tokyo-night&hide_border=true" />
-</p>
