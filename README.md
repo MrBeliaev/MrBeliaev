@@ -19,12 +19,3 @@ Building scalable backend systems, blockchain infrastructure, analytics platform
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrBeliaev&theme=tokyo-night&hide_border=true" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MrBeliaev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrBeliaev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
